@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Puurestar✨
 
-![IMG_9851](https://github.com/Puurestar/Puurestar/assets/105161692/77936faf-9ce1-49c8-ab03-05dd4a15e75f)
-
+![IMG_9852](https://github.com/Puurestar/Puurestar/assets/105161692/a55ab647-d540-43b2-bc52-8876adc7cbe8)
 
 ❤️[Bilibili](https://b23.tv/8at6ycs)
 
