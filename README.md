@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Puurestar✨
 
-<img src="https://api.githubtrends.io/user/svg/Puurestar/langs?time_range=one_year&loc_metric=changed&theme=classic" />
+![IMG_9851](https://github.com/Puurestar/Puurestar/assets/105161692/77936faf-9ce1-49c8-ab03-05dd4a15e75f)
 
 
 ❤️[Bilibili](https://b23.tv/8at6ycs)
@@ -9,26 +9,30 @@
 
 ## 主要信息
 
-***
-<img align="right" src="https://api.githubtrends.io/user/svg/Puurestar/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic"/>
-
+<img align="right" src="https://api.githubtrends.io/user/svg/Puurestar/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns" />
 
 ### 学生党，时间并不充裕
 
  > 主要：Typescript
+
  > 曾经学过：Python
+
  > 擅长：（我好像没有什么擅长的语言）
 
 ### 兴趣爱好：
 
  > 画画
+
  > 音乐
+
  > 编程
 
 ### 主要参与：
 
  > Koishi插件制作
+
  > 系统美化
+
  > 音乐制作
 
 ## 我的项目：
