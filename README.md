@@ -46,7 +46,7 @@
 
 ## 联系方式：
 
-📮[邮箱：](henrystay@outlook.com)
+📮henrystay@outlook.com
 
 ❤️[Bilibili](https://b23.tv/8at6ycs)
 
