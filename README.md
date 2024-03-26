@@ -2,10 +2,6 @@
 
 ![IMG_9852](https://github.com/Puurestar/Puurestar/assets/105161692/a55ab647-d540-43b2-bc52-8876adc7cbe8)
 
-❤️[Bilibili](https://b23.tv/8at6ycs)
-
-🧡[小红书](https://www.xiaohongshu.com/user/profile/63fb51a00000000029016507?xhsshare=CopyLink&appuid=63fb51a00000000029016507&apptime=1710652955)
-
 ## 主要信息
 
 <img align="right" src="https://api.githubtrends.io/user/svg/Puurestar/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns" />
