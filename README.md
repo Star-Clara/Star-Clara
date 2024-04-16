@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Puurestar✨
 
-![IMG_9852](https://github.com/Puurestar/Puurestar/assets/105161692/a55ab647-d540-43b2-bc52-8876adc7cbe8)
+![IMG_0655](https://github.com/Puurestar/Puurestar/assets/105161692/781496ff-a2f0-4a38-8bec-bbf53c1613e9)
+
 
 ## 主要信息
 
-<img align="right" src="https://api.githubtrends.io/user/svg/Puurestar/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns" />
 
 ### 学生党，时间并不充裕
 
