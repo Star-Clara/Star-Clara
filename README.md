@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Puurestar✨
 
-![IMG_0655](https://github.com/Puurestar/Puurestar/assets/105161692/781496ff-a2f0-4a38-8bec-bbf53c1613e9)
+![image](https://github.com/Puurestar/Puurestar/assets/105161692/47123b52-708f-4287-98be-9e3b4ac1cc69)
 
 
 ## 主要信息
