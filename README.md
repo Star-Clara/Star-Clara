@@ -1,3 +1,6 @@
+<div align="center">
+
+
 # Hi there 👋 I'm Puurestar✨
 
 ![image](https://github.com/Puurestar/Puurestar/assets/105161692/47123b52-708f-4287-98be-9e3b4ac1cc69)
@@ -22,6 +25,7 @@
 
  > 编程
 
+[![osu! mania](https://osu-sig.vercel.app/card?user=Hesnoma&mode=mania&round_avatar=true&animation=true)](https://osu.ppy.sh/users/31768876)
 ### 主要参与：
 
  > Koishi插件制作
