@@ -2,9 +2,13 @@
 
 
 # Hi there 👋 I'm Puurestar✨
-![IMG_1048](https://github.com/Puurestar/Puurestar/assets/105161692/37673564-94a7-4ed1-99d2-9a7b023d44a5)
+
 
 ## 我的OC们
+
+
+![IMG_1048](https://github.com/Puurestar/Puurestar/assets/105161692/37673564-94a7-4ed1-99d2-9a7b023d44a5)
+
 
 
 ## 主要信息
