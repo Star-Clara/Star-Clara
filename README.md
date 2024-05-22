@@ -44,6 +44,9 @@
 
 
 ## 我的项目：
+**koishi-plugin-level**  [![npm](https://img.shields.io/npm/v/koishi-plugin-level?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-level) ![pypi download](https://img.shields.io/npm/dm/koishi-plugin-level) 
+
+## 我的计划
 
 ### 编程相关：
 - [x] 我的第一个Koishi机器人
