@@ -10,7 +10,8 @@
 
 ## 我的OC们
 
-![IMG_1605](https://github.com/Puurestar/Puurestar/assets/105161692/b25541d8-71f0-4c1b-8bfb-93b0f4176b46)
+![IMG_1794](https://github.com/Puurestar/Puurestar/assets/105161692/565a4dcb-1b0d-4f84-b782-7c3ccb1bc743)
+
 
 
 ## 主要信息
