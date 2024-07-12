@@ -8,9 +8,7 @@
 </div>
 
 
-## 我的OC们
-
-![IMG_1794](https://github.com/Puurestar/Puurestar/assets/105161692/565a4dcb-1b0d-4f84-b782-7c3ccb1bc743)
+![IMG_2498](https://github.com/user-attachments/assets/b4a0bf20-3f02-4942-bab5-51192ddc3929)
 
 
 
