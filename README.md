@@ -7,9 +7,7 @@
 
 </div>
 
-
-![IMG_2498](https://github.com/user-attachments/assets/b4a0bf20-3f02-4942-bab5-51192ddc3929)
-
+![IMG_4021](https://github.com/user-attachments/assets/ee890786-4b86-4d0d-abd1-090a29b2bebc)
 
 
 ## 主要信息
