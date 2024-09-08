@@ -28,7 +28,8 @@
  > 音乐
 
  > 编程
-[![osu! signature card](/card?user=Star%20Clara&mode=std&lang=en&animation=true&skills=true)](https://osu.ppy.sh/u/Star Clara)
+
+[![osu! std]([(https://osu-sig.vercel.app/card?user=Star%20Clara&mode=std&lang=en&animation=true&skills=true)](https://osu.ppy.sh/u/Star Clara)
 [![osu! mania](https://osu-sig.vercel.app/card?user=Hesnoma&mode=mania&round_avatar=true&animation=true)](https://osu.ppy.sh/users/31768876)
 ### 主要参与：
 
