@@ -29,7 +29,7 @@
 
  > 编程
 
-[![osu! std](https://osu-sig.vercel.app/card?user=Star%20Clara&mode=std&lang=en&animation=true&skills=true)](https://osu.ppy.sh/users/31768876)
+[![osu! std](https://osu-sig.vercel.app/card?user=Star%20Clara&mode=std&blur=6&round_avatar=true&animation=true)](https://osu.ppy.sh/users/31768876)
 
 [![osu! mania](https://osu-sig.vercel.app/card?user=Hesnoma&mode=mania&round_avatar=true&animation=true)](https://osu.ppy.sh/users/31768876)
 ### 主要参与：
