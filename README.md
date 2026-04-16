@@ -1,10 +1,10 @@
 <div align="center">
 
 
-# Hi there 👋 I'm Star_Clara～
-> ** The night is quiet and cool to make a water pavilion, and the grass is faintly reflected✨ **
+# Hi there 👋 I'm Starry～
 
-![](https://komarev.com/ghpvc/?username=Star-Clara)
+
+
 
 
 </div>
@@ -17,24 +17,16 @@
 
 ### 学生党，时间并不充裕
 
- > 主要：Typescript
-
- > 曾经学过：Python
-
- > 擅长：（我好像没有什么擅长的语言）
-
 ### 兴趣爱好：
 
  > 画画
 
  > 音乐
 
- > 编程
-
 [![osu! std](https://osu-sig.vercel.app/card?user=Star%20Clara&mode=std&blur=6&round_avatar=true&animation=true)](https://osu.ppy.sh/users/31768876)
 
 [![osu! mania](https://osu-sig.vercel.app/card?user=Hesnoma&mode=mania&round_avatar=true&animation=true)](https://osu.ppy.sh/users/31768876)
-### 主要参与：
+### 参与过：
 
  > Koishi插件制作
 
@@ -55,7 +47,6 @@
 - [ ] Koishi入群验证插件
 ### 美术相关：
 - [x] 纳西妲鼠标指针
-- [ ] 简约版常用软件图标
 
 ***
 
