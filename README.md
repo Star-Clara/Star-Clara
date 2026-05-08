@@ -1,21 +1,14 @@
 <div align="center">
 
-
-# Hi there 👋 I'm Starry～
-
-
-
-
-
+ # Hi there 👋 I'm Starry～
+ 
 </div>
 
-![IMG_4021](https://github.com/user-attachments/assets/ee890786-4b86-4d0d-abd1-090a29b2bebc)
+<img width="1920" height="1080" alt="IMG_9269" src="https://github.com/user-attachments/assets/6e4d85cf-30ef-462c-a90a-bd3917d20a82" />
+
 
 
 ## 主要信息
-
-
-### 学生党，时间并不充裕
 
 ### 兴趣爱好：
 
@@ -32,23 +25,9 @@
 
  > 系统美化
 
- > 音乐制作
-
-
 
 ## 我的项目：
 **koishi-plugin-level**  [![npm](https://img.shields.io/npm/v/koishi-plugin-level?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-level) ![pypi download](https://img.shields.io/npm/dm/koishi-plugin-level) 
-
-## 我的计划
-
-### 编程相关：
-- [x] 我的第一个Koishi机器人
-- [x] Koishi签到插件
-- [ ] Koishi入群验证插件
-### 美术相关：
-- [x] 纳西妲鼠标指针
-
-***
 
 ## 联系方式：
 
