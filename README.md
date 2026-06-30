@@ -1,6 +1,7 @@
 <div align="center">
 
- # 人，泥嚎！！我是斯塔！
+ # 人，泥嚎！！我素斯塔！
+Hi there! I'm Starry!
  
 </div>
 
@@ -26,7 +27,8 @@
  > 系统美化
 
 
-## 我的项目：
+## 曾经的项目：
+
 **koishi-plugin-level**  [![npm](https://img.shields.io/npm/v/koishi-plugin-level?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-level) ![pypi download](https://img.shields.io/npm/dm/koishi-plugin-level) 
 
 ## 正在筹划：
@@ -35,7 +37,7 @@
 
 ## 联系方式：
 
-📮henrystay@outlook.com
+📮2069130069@qq.com
 
 ❤️[Bilibili](https://b23.tv/8at6ycs)
 
