@@ -44,7 +44,5 @@
 
 📮2069130069@qq.com
 
-❤️[Bilibili](https://b23.tv/8at6ycs)
-
 🧡[小红书](https://www.xiaohongshu.com/user/profile/63fb51a00000000029016507?xhsshare=CopyLink&appuid=63fb51a00000000029016507&apptime=1710652955)
 
