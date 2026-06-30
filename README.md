@@ -1,6 +1,6 @@
 <div align="center">
 
- # Hi there 👋 I'm Starry～
+ # 人，泥嚎！！我是斯塔！
  
 </div>
 
@@ -28,6 +28,10 @@
 
 ## 我的项目：
 **koishi-plugin-level**  [![npm](https://img.shields.io/npm/v/koishi-plugin-level?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-level) ![pypi download](https://img.shields.io/npm/dm/koishi-plugin-level) 
+
+## 正在筹划：
+
+ > 新的鼠标指针！
 
 ## 联系方式：
 
