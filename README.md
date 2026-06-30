@@ -1,7 +1,10 @@
 <div align="center">
 
- # 人，泥嚎！！我素斯塔！
-Hi there! I'm Starry!
+### **人，泥嚎！！我素斯塔！**
+ 
+**Hi there! I'm Starry!**
+
+---
  
 </div>
 
