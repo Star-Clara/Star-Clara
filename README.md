@@ -40,7 +40,7 @@
 
 **适用于Windows的纳西妲风格鼠标指针**  [这里这里！](https://github.com/Star-Clara/Nahida_style_mouse_cur_for_Windows)
 
-## 正在筹划：
+## 正在筹划（Plans）：
 
  > 新的鼠标指针！
 
